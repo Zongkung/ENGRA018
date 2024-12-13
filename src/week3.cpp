@@ -1,3 +1,4 @@
+/*
 #include <Arduino.h>
 
 #define bottom 36
@@ -69,3 +70,5 @@ void loop() {
     digitalWrite(led8, HIGH);
   }
 }
+
+*/
